@@ -1,3 +1,8 @@
 02MachineLearn/lang/
 02MachineLearn/resData/
 02MachineLearn/resMnist/
+03DeepLearn/log_dir/
+03resData/resData/
+04ImgClassifier/caltech101/
+04ImgClassifier/resData/
+04ImgClassifier/saveFiles/
