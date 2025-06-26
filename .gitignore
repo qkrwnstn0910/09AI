@@ -6,3 +6,6 @@
 04ImgClassifier/caltech101/
 04ImgClassifier/resData/
 04ImgClassifier/saveFiles/
+04ImgClassifier/predict_error/
+04ImgClassifier/download/
+04ImgClassifier/kfood/
